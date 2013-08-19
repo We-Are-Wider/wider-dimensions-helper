@@ -3,7 +3,7 @@
 Plugin Name: Tanc Dimensions Helper
 Plugin URI: http://www.tancdesign.com
 Description: Adds an updating viewport width to the WordPress admin bar (only when you are logged in as administrator). More to come in the future!
-Version: 0.1
+Version: 0.2
 Author: Jonny Allbut/Tanc Design
 Author URI: http://jonnya.net
 */
@@ -12,7 +12,7 @@ function tanc_dhelper_add( $admin_bar ) {
 	$admin_bar->add_menu( array(
 	    'id'    => 'tanc-vpwidth', 
 	    'parent' => 'top-secondary',
-	    'title' => 'Width',
+	    'title' => 'Viewport',
 	    'href'  => '#',
 	    'meta'  => array(
 	    'title' => __('Viewport width'),

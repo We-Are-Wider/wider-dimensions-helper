@@ -23,7 +23,7 @@ function getViewportHeight() {
 }
 
 var tellMeTheSizes=function() {
-	document.getElementById("wp-admin-bar-tanc-vpwidth").innerHTML = '<a href="#">Viewport width:' + getViewportWidth() + 'px</a>';
+	document.getElementById("wp-admin-bar-tanc-vpwidth").innerHTML = '<a href="#">Viewport (width x height):' + getViewportWidth() + 'x' + getViewportHeight() + 'px</a>';
 }
 
 window.onload=function() { tellMeTheSizes(); }
