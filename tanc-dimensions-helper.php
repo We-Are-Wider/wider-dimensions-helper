@@ -2,8 +2,8 @@
 /*
 Plugin Name: Tanc Dimensions Helper
 Plugin URI: http://www.tancdesign.com
-Description: Adds an updating viewport width to the WordPress admin bar (only when you are logged in as administrator). More to come in the future!
-Version: 0.2
+Description: Adds an updating viewport width and height to the WordPress admin bar (only when you are logged in as administrator). More to come in the future!
+Version: 0.21
 Author: Jonny Allbut/Tanc Design
 Author URI: http://jonnya.net
 */

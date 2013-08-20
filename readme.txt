@@ -40,7 +40,7 @@ Nope, not designed to be viewed here.
 
 == Screenshots ==
 
-1. Here is how it reports this information - top right of your WordPress admin bar.
+1. Here is how it reports this information - top right of your WordPress admin bar when you are logged in as an administrator level user.
 
 == Changelog ==
 
@@ -51,3 +51,15 @@ Nope, not designed to be viewed here.
 = 0.2 =
 * Released 19th August 2013
 * Introduce height measurement
+
+== Upgrade Notice ==
+
+= 0.21 =
+Tested WordPress 3.6 compatibility and introduced new viewport height measurement
+Documentation update and upgrade notices
+
+= 0.2 =
+Tested WordPress 3.6 compatibility and introduced new viewport height measurement
+
+= 0.1 =
+Initial release
