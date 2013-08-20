@@ -51,6 +51,11 @@ Nope, not designed to be viewed here.
 = 0.2 =
 * Released 19th August 2013
 * Introduce height measurement
+* Tested with WordPress 3.6
+
+= 0.21 =
+* Released 20th August 2013
+* Documentation update and upgrade notices
 
 == Upgrade Notice ==
 
