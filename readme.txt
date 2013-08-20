@@ -3,7 +3,7 @@ Contributors: Jonnyauk
 Tags: browser dimensions, media queries, CSS
 Requires at least: 3.4
 Tested up to: 3.6
-Stable tag: 0.2
+Stable tag: 0.21
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
