@@ -1,4 +1,4 @@
-=== Tanc Dimensions Helper ===
+=== Wider Dimensions Helper ===
 Contributors: Jonnyauk
 Tags: browser dimensions, media queries, CSS
 Requires at least: 3.4
